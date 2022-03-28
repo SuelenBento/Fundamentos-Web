@@ -1,0 +1,21 @@
+/* Estilos da pagina index.html */
+
+.size{ 
+    font-size: 18px;
+}
+.titulo{
+    color: rgb(238, 206, 64);    
+    text-align: center;
+}
+#color{
+    color: rgb(238, 206, 64);  
+}
+
+.conteiner{
+   display: flex;
+   flex-flow: row ;
+   justify-content: center;
+    
+}
+
+/* Estilos da pagina contato.html */
